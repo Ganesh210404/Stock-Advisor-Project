@@ -24,7 +24,7 @@ A Python-based stock analysis tool that integrates AutoGen Local LLM (TinyLLaMA)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/syedayaan817/Stock-Advisor-Project.git
+git clone https://github.com/Ganesh210404/Stock-Advisor-Project.git
 cd Stock-Advisor-Project
 
 2️⃣ Install Dependencies
@@ -81,18 +81,6 @@ Yahoo Finance API (yfinance, yahooquery)
 Local LLM (Hugging Face Transformers)
 
 Streamlit (UI for Stock Analysis)
-
-
-
-
-
-👤 Author
-
-syedayaan817
-
-
-
-
 
 📜 License
 
